@@ -1,0 +1,6 @@
+C:\dataall\samples\appserviceclient\clientcert\bin\Debug\clientcert.exe.config
+C:\dataall\samples\appserviceclient\clientcert\bin\Debug\clientcert.exe
+C:\dataall\samples\appserviceclient\clientcert\bin\Debug\clientcert.pdb
+C:\dataall\samples\appserviceclient\clientcert\obj\Debug\clientcert.csproj.CoreCompileInputs.cache
+C:\dataall\samples\appserviceclient\clientcert\obj\Debug\clientcert.exe
+C:\dataall\samples\appserviceclient\clientcert\obj\Debug\clientcert.pdb
